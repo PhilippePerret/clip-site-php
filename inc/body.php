@@ -1,0 +1,1 @@
+<section id="body">Corps principal de la page.</section>
